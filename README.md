@@ -4,17 +4,19 @@ In the last two months since <a href="https://www.nytimes.com/2017/10/05/us/harv
 
 As <a href="https://www.thecut.com/2017/11/rebecca-traister-on-the-post-weinstein-reckoning.html">Rebecca Traister says</a> of this reckoning, "It’s wild and not entirely fun...In the shock of the house lights having been suddenly brought up — of being forced to stare at the ugly scaffolding on which so much of our professional lives has been built — we’ve had scant chance to parse what exactly is inflaming us and who." There's a general sense of rage, but it's hard to know exactly where to direct it. 
 
+ETC...
+
 ## Data as power
 
-TK<br/>
+TO COME<br/>
 Both a metaphor and very real<br/>
 https://github.com/MimiOnuoha/missing-datasets
 
 ## Collection criteria 
 
-TK
+TO COME
 
 ## What's next?
 
-TK<br/>
+TO COME<br/>
 https://lauraykerr.github.io/apologies-data/index.html
