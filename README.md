@@ -6,8 +6,8 @@ As <a href="https://www.thecut.com/2017/11/rebecca-traister-on-the-post-weinstei
 
 ## Data as power
 
-TK
-Both a metaphor and very real
+TK<br/>
+Both a metaphor and very real<br/>
 https://github.com/MimiOnuoha/missing-datasets
 
 ## Collection criteria 
